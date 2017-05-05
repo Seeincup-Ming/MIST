@@ -1,0 +1,16 @@
+
+#node modules
+node_modules
+
+#package.json
+package.json
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+
